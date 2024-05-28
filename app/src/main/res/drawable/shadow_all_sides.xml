@@ -1,8 +1,7 @@
-<!-- res/drawable/shadow_rounded_background.xml -->
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
     <item>
         <shape android:shape="rectangle">
-            <solid android:color="#ffffff" /> <!-- Background color -->
+            <solid android:color="#ffffff" />
             <corners android:radius="10dp" />
         </shape>
     </item>
