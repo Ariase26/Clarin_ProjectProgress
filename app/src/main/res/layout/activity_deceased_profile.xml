@@ -55,6 +55,7 @@
                         android:layout_marginLeft="20dp"
                         android:layout_weight="1"
                         android:gravity="center|right"
+                        android:letterSpacing="0.2"
                         android:paddingRight="10dp"
                         android:text="USER PROFILE"
                         android:textColor="#80000000"
@@ -262,12 +263,8 @@
                                 android:textColor="#FFFFFF"
                                 android:textSize="12sp" />
                         </LinearLayout>
-
                     </androidx.cardview.widget.CardView>
-
                 </LinearLayout>
-
-
             </ScrollView>
 
         </LinearLayout>
