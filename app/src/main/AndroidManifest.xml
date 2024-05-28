@@ -12,6 +12,9 @@
         android:theme="@style/Theme.Clarin_ProjectProgress"
         tools:targetApi="31">
         <activity
+            android:name=".DeceasedProfile"
+            android:exported="true" />
+        <activity
             android:name=".UserProfile"
             android:exported="true" />
         <activity
